@@ -21,7 +21,7 @@ projetos para aprimorar minhas habilidades.
 
 ## 📊 Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0L0B&layout=compact&theme=tokyonight)
 
 ---
 
