@@ -1,4 +1,4 @@
-# 👩‍💻 Sobre mim
+# Sobre mim
 
 🎓 Estudante de Ciência da Computação
 🌎 Inglês Intermediário
@@ -11,7 +11,7 @@ projetos para aprimorar minhas habilidades.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,git,github,vscode,figma" />
@@ -19,13 +19,13 @@ projetos para aprimorar minhas habilidades.
 
 ---
 
-## 📊 Linguagens mais utilizadas
+##  Linguagens mais utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0L0B&layout=compact&theme=tokyonight)
 
 ---
 
-## 📜 Certificados
+## Certificados
 
 - HTML Dev (DIO)
 - Java Dev (DIO)
